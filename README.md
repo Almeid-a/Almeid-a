@@ -2,6 +2,10 @@
 
 - 🔭 Hoje trabalho como Desenvolvedor Front-End
 - 🌱 Estudando: React-Native, NativeWind e Tailwind CSS
+- 
+Principais Projetos:
+- AS Biker Ship: https://asbikershop.vercel.app
+- ECM Automação: https://ecmautomacao.vercel.app
 
 ##
   <div>
